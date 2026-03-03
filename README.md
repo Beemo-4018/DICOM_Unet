@@ -8,6 +8,10 @@
 
 ---
 
+![](https://velog.velcdn.com/images/zlfktk/post/cb644efe-570a-4c06-9c7c-ace0bad99383/image.png)
+
+![](https://velog.velcdn.com/images/zlfktk/post/957daea5-6bec-4f1c-a861-ce08df599a64/image.png)
+
 ## 📌 프로젝트 개요
 
 의료 AI 분야 취업 준비를 위해 DICOM 표준부터 딥러닝 모델 학습까지 전체 파이프라인을 직접 구현한 프로젝트입니다.
