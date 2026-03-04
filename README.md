@@ -34,8 +34,7 @@ medical-image-ai/
 │   ├── unet_pipeline.py           # UNet + MSE Loss
 │   └── revision_pipeline.py       # UNet + MSE+SSIM Loss (개선)
 │
-├── 📁 result_images/ 
-├── 📁 models/ 
+├── 📁 result_images/  
 │
 │
 └── README.md
