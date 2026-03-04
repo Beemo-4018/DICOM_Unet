@@ -239,6 +239,8 @@ python revision_pipeline.py # 학습 (MSE+SSIM Loss)
 - [ ] Validation set 분리 & Early Stopping
 - [ ] 더 많은 데이터로 재학습 (max_files 증가)
 
+fastMRI의 reconstruction_rss를 정답으로 학습했지만, 실제 임상 환경에서는 fully-sampled ground truth가 존재하지 않는 경우가 많다.
+Self-supervised reconstruction (e.g., data consistency 기반 학습) 방향도 추가로 탐구해보고 싶다.
 ---
 
 ## 📚 참고 자료
